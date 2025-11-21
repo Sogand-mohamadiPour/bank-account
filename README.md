@@ -20,6 +20,10 @@ All actions (except opening the account) only work when the account is **active*
 - **React**
 - **useReducer**
 - JavaScript (ES6)
+- CSS
+
+## 🚀Live Demo
+
 
 ## 📌 Notes
 
